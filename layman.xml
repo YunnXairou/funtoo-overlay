@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "http://www.gentoo.org/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+    <repo quality="experimental" status="unofficial">
+        <name>yunoverlay</name>
+        <description lang="en">Overlay used by yunnx to fix stuff he thinks broken (probably mainly add py3.6 to available python) or add missing features to some overlays</description>
+        <homepage>https://github.com/YunnXairou/funtoo-overlay</homepage>
+        <owner type="person">
+          <email>clement+hub@beaubestre.fr</email>
+          <name>yunnx</name>
+        </owner>
+        <source type="git">https://github.com/YunnXairou/funtoo-overlay.git</source>
+        <source type="git">git://github.com/YunnXairou/funtoo-overlay.git</source>
+        <source type="git">git@github.com:YunnXairou/funtoo-overlay.git</source>
+        <feed>https://github.com/YunnXairou/funtoo-overlay/commits/master.atom</feed>
+    </repo>
+</repositories>
