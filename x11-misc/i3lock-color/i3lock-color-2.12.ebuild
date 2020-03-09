@@ -5,8 +5,8 @@ EAPI=6
 MY_PV="${PV}.c"
 
 DESCRIPTION="improved improved screen locker - 'the ricing fork of i3lock'"
-HOMEPAGE="https://github.com/PandorasFox/i3lock-color"
-SRC_URI="https://github.com/PandorasFox/i3lock-color/archive/${MY_PV}.tar.gz"
+HOMEPAGE="https://github.com/Raymo111/i3lock-color"
+SRC_URI="https://github.com/Raymo111/i3lock-color/archive/${MY_PV}.tar.gz"
 
 LICENSE="BSD"
 SLOT="0"
